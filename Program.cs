@@ -28,7 +28,7 @@ namespace BranchingAssignment
         else 
             {
                 int quote = (packageHeight * packageWeight * packageWidth) * packageWeight / 100;
-                Console.WriteLine("Your estimated total for shipping this package is: " + quote);
+                Console.WriteLine("Your estimated total for shipping this package is: " + "$" + quote);
                 Console.ReadLine();
             }
 
