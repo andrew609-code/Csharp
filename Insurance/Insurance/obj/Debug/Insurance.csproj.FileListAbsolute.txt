@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\bin\Debug\Insurance.exe.config
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\bin\Debug\Insurance.exe
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\bin\Debug\Insurance.pdb
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\obj\Debug\Insurance.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\obj\Debug\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\obj\Debug\Insurance.exe
+C:\Users\marsh\Documents\Basic_C#\Insurance\Insurance\obj\Debug\Insurance.pdb

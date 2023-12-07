@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\bin\Debug\Module7DailyReport.exe.config
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\bin\Debug\Module7DailyReport.exe
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\bin\Debug\Module7DailyReport.pdb
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\obj\Debug\Module7DailyReport.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\obj\Debug\Module7DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\obj\Debug\Module7DailyReport.exe
+C:\Users\marsh\Documents\Basic_C#\Module7DailyReport\Module7DailyReport\obj\Debug\Module7DailyReport.pdb

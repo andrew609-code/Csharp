@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\marsh\Documents\Basic_C#\MathOperations\MathOperations\obj\Debug\MathOperations.pdb

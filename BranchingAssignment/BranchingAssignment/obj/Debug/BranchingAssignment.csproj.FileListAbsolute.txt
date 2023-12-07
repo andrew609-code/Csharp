@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\marsh\Documents\Basic_C#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
